@@ -4,6 +4,7 @@
 
 - React components are just JS functions
 - A space in return function was causing an error on returning the content
+- Also used conditional rendering using {...} inside a .jsx file
 
 ---
 
