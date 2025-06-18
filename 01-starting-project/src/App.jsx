@@ -8,6 +8,7 @@ function App() {
       <Headerjsx/>
       <main>
         <section id="core-concepts">
+            <h2>Core Concepts</h2>
           <ul>
             <CoreConcept 
             title={CORE_CONCEPTS[0].title}
@@ -31,6 +32,7 @@ function App() {
             />
           </ul>
         </section>
+        <br></br>
         <h2 class="margin:11px;">Time to get started</h2>
       </main>
     </div>
@@ -38,3 +40,4 @@ function App() {
 }
 
 export default App;
+   
