@@ -31,7 +31,7 @@ function App() {
             />
           </ul>
         </section>
-        <h2>Time to get started</h2>
+        <h2 class="margin:11px;">Time to get started</h2>
       </main>
     </div>
   );
